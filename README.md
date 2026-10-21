@@ -28,3 +28,4 @@ How to Run
 
 Author
 Niharika Manoj Kottayintavida
+link:https://colab.research.google.com/github/Niharika2304-tech/Image-Pixel-Manipulator/blob/main/Image_Pixel_Manipulator.ipynb
